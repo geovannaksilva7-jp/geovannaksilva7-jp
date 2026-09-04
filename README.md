@@ -44,15 +44,13 @@ Estou construindo minha experiência através dos meus estudos e projetos enquan
 
 > HTML & CSS
 
-> MySQL & Bancos de Dados
+> Bancos de Dados
 
 > Node.js
 
 > APIs REST
 
 > Desenvolvimento de Jogos
-
-> UI & Web Design
 
 > Construindo meu portfólio
 
