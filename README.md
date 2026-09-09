@@ -34,12 +34,6 @@ Estou sempre buscando aprender novas tecnologias, experimentar novas ideias e tr
 
 <br>
 
-<div align="center">
-
-> ✦ **sonhe. planeje. conquiste.** ✦
-
-</div>
-
 ---
 
 <div align="center">
@@ -59,8 +53,6 @@ HTML • CSS • JavaScript • MySQL • Git • GitHub • VS Code
 </div>
 
 ---
-
-# ✦ MEUS COMMITS ✦
 
 <div align="center">
 
